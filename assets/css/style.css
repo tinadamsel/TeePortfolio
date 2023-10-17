@@ -175,7 +175,7 @@ a:hover {
 
 /*--/ Title Left /--*/
 .title-box-2 {
-  margin-bottom: 3rem;
+  margin-bottom: 1rem;
 }
 
 .title-left {
@@ -184,7 +184,7 @@ a:hover {
 }
 
 .title-left:before {
-  content: "";
+  /* content: ""; */
   position: absolute;
   height: 3px;
   background-color: #430e0e;
